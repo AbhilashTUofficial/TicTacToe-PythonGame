@@ -8,7 +8,7 @@ A GUI Version of tic tac toe game in python.
 <br/><br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/TicTacToe-PythonGame?color=blue&label=Last%20Commit%3A&style=for-the-badge) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/TicTacToe-PythonGame?label=Repo%20Size%3A&style=for-the-badge)
 
-|Python Snake Game| Python Snake Game |
+|Python Tic tac toe Game| Python Tic tac toe Game |
 |------|-------|
 |<img align="left" alt="tic tac toe game" width="200px" src="./Img/pythonTicTacToe1.png">|<img align="left" alt="tic tac toe game" width="200px" src="./Img/pythonTicTacToe2.png">|
 
